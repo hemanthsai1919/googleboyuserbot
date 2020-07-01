@@ -16,14 +16,12 @@ async def amireallyalive(alive):
     await alive.edit("░█─░█ █▀▀ █── █── █▀▀█\n"
                      "░█▀▀█ █▀▀ █── █── █──█\n"
                      "░█─░█ ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀▀\n\n" 
-                     "☞Yes Sir ! I'm Alive\n"
+                     "☞Yes BUDDY ! I'm Alive\n"
                      f"`☞Telethon version: {version.__version__}\n`"
                      f"`☞Python: {python_version()}\n`"
-                     f"☞Bot Creater : #Mr_Googleboy\n"
-                     f"`☞My peru owner`: {DEFAULTUSER}\n\n"
-                     "☞Join [Channel](https://t.me/feedbuzzme) For Latest Updates\n"
-                     "[Deploy this super bot](https://github.com/mr-googleboy/googleboyuserbot)"
-                    )
+                     f"☞Bot Creater : #@MY_TRIVITRO_ID\n"
+                     f"`☞MY CYBER BUDDY`: {DEFAULTUSER}\n\n"
+                      )
     
     
 
